@@ -7,5 +7,4 @@ Android telefonda da dosyaya dokunmak yeterli.
 iPhone'da dosyaya dokunmak ÇALIŞMAZ — iOS yerel HTML dosyalarında
 JavaScript çalıştırmaz. Dosyayı bir internet adresine koyup Safari'de açman
 gerekir; ayrıntılı anlatım: IPHONE.md. Adresten açınca Paylaş → Ana Ekrana
-Ekle ile ikonlu, tam ekran, çevrimdışı çalışan bir uygulamaya dönüşür —
-eşin telefonda çalışacaksa en iyi seçenek bu.
+Ekle ile ikonlu, tam ekran, çevrimdışı çalışan bir uygulamaya dönüşür — telefonda çalışacaksan en iyi seçenek bu.
